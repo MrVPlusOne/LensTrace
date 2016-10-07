@@ -2,13 +2,13 @@
 
 #### A ray tracer written in Scala featuring dispersion effects
 
+#### [see introduction here](https://mrvplusone.github.io/gallery-rayTracerScala.html)
+
 #### Main features:
 
 * Using Monte Carlo Method to render dispersion effects
 
 * Path tracing from the ground up
-
-#### [introduction page](https://mrvplusone.github.io/gallery-rayTracerScala.html)
 
 #### Project is in Intellij IDEA format
 
