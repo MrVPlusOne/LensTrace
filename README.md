@@ -2,7 +2,7 @@
 
 #### A ray tracer written in Scala featuring dispersion effects
 
-#### [see introduction here](https://mrvplusone.github.io/gallery-rayTracerScala.html)
+#### [see introduction here](https://mrvplusone.github.io/old-homepage/gallery-rayTracerScala.html)
 
 #### Main features:
 
